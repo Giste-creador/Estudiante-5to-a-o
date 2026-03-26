@@ -2,17 +2,17 @@
 ### Es una red social basada en videos cortos verticales.
 ## Se Caracteriza:
 ### Por contenidos como: 
-• Baile.
+• Baile 💃🕺
 
-• Comedia.
+• Comedia 🤣
 
-• Tendencias musicales.
+• Tendencias musicales 🎶
 
-• Recetas de cocina.
+• Recetas de cocina 🍲
 
-• Contenido Educativo.
+• Contenido Educativo ✏️📓
 
-## Monetización y Negocios:
+## Monetización y Negocios 💰:
 #### No toda la monetización depende de los pagos directos de la plataforma. También se puede generar con: 
 • Marketing de Influencers: Colaboraciones pagadas con marcas para promocionar sus servicios o productos.
 
